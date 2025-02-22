@@ -12,5 +12,6 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  padding: 10px 20px;
   background: #e2d4ff;
 }
