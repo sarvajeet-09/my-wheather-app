@@ -1,3 +1,11 @@
+.heading{
+    place-self: center;
+    display: flex;
+    align-items: center;
+}
+.heading h1{
+    margin-bottom: 0px;
+}
 .wheather{
     place-self: center;
     display: flex;
