@@ -8,6 +8,9 @@
 
 .app{
   min-height: 100vh;
-  display: grid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   background: #e2d4ff;
 }

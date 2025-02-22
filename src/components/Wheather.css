@@ -1,7 +1,8 @@
 .heading{
-    place-self: center;
+    /* place-self: center; */
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 .heading h1{
     margin-bottom: 0px;
